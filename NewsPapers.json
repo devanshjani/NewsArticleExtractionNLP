@@ -34,6 +34,35 @@
   "Sky World News": {
 	  "rss": "http://feeds.skynews.com/feeds/rss/world.xml",
 	  "link": "https://news.sky.com/world"
+  },
+  "ABC News": {
+	  "rss": "https://abcnews.go.com/abcnews/topstories",
+	  "link": "https://abcnews.go.com/"
+  },
+  "NBC News top stories": {
+	  "rss": "http://feeds.nbcnews.com/feeds/topstories",
+	  "link": "https://www.nbcnews.com/"
+  },
+  "Yahoo News World ": {
+	  "rss": "https://www.yahoo.com/news/rss/world",
+	  "link": "https://www.yahoo.com/news"
+  },
+  "SBS News Top Stories": {
+	  "rss": "https://www.sbs.com.au/news/feed",
+	  "link": "https://www.sbs.com.au/news"
+  },
+  "POLITICO": {
+	  "rss": "https://www.politico.com/rss/politicopicks.xml",
+	  "link": "https://www.politico.com"
+	  
+  },
+  
+  "POLITICO Europe": {
+	  "rss": "http://www.politico.eu/feed/",
+	  "link": "http://www.politico.eu"
   }
+  
+	 
+  
   
 }
