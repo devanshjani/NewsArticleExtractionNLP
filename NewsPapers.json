@@ -60,7 +60,17 @@
   "POLITICO Europe": {
 	  "rss": "http://www.politico.eu/feed/",
 	  "link": "http://www.politico.eu"
+  },
+  "New Yorker": {
+	  "rss": "http://www.newyorker.com/feed/news",
+	  "link": "http://www.newyorker.com"
+  },
+  "Fox News Politics": {
+	  "rss": "http://feeds.foxnews.com/foxnews/politics",
+	  "link": "www.foxnews.com/politics.html"
   }
+ 
+  
   
 	 
   
