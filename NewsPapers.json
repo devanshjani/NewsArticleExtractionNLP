@@ -1,13 +1,25 @@
 {
-  "bbc": {
-    "rss": "http://feeds.bbci.co.uk/news/rss.xml",
+  "BBC World News": {
+    "rss": "http://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "http://www.bbc.com/"
   },
-  "cnn": {
+  "CNN": {
+    "rss": "http://rss.cnn.com/rss/edition.rss",
     "link": "http://edition.cnn.com/"
   },
   "washingtonpost": {
     "rss": "http://feeds.washingtonpost.com/rss/world",
     "link": "https://www.washingtonpost.com/"
+  },
+  "Reuters World News": {
+	  "rss": "http://feeds.reuters.com/Reuters/worldNews",
+	  "link": "https://www.reuters.com/"
+  },
+  "The Guardian World News": {
+	  "rss": "https://www.theguardian.com/world/rss",
+	  "link": "https://www.theguardian.com/world"
+  },
+  "AP": {
+	  "link": "https://apnews.com/"
   }
 }
