@@ -20,6 +20,20 @@
 	  "link": "https://www.theguardian.com/world"
   },
   "AP": {
+	  "rss": "http://hosted.ap.org/lineups/USHEADS-rss_2.0.xml?SITE=RANDOM&SECTION=HOME",
 	  "link": "https://apnews.com/"
+  },
+  "WSJ World News": {
+	  "rss": "http://www.wsj.com/xml/rss/3_7085.xml",
+	  "link": "https://www.wsj.com/"
+  },
+  "NY Times": {
+	  "rss": "http://feeds.nytimes.com/nyt/rss/HomePage",
+	  "link": "https://www.nytimes.com/"
+  },
+  "Sky World News": {
+	  "rss": "http://feeds.skynews.com/feeds/rss/world.xml",
+	  "link": "https://news.sky.com/world"
   }
+  
 }
