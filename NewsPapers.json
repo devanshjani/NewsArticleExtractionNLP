@@ -4,7 +4,7 @@
     "link": "http://www.bbc.com/"
   },
   "CNN": {
-    "rss": "http://rss.cnn.com/rss/edition.rss",
+    "rss": "http://rss.cnn.com/rss/cnn_topstories.rss",
     "link": "http://edition.cnn.com/"
   },
   "washingtonpost": {
@@ -73,6 +73,10 @@
 	  "rss": "https://www.buzzfeed.com/politics.html",
 	  "link": "https://www.buzzfeed.com/politics"
   },
+  "NPR News": {
+	  "rss": "https://www.npr.org/rss/rss.php?id=1003",
+	  "link": "www.npr.org"
+  }
   
   
   
