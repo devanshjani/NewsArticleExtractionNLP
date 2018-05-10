@@ -65,11 +65,15 @@
 	  "rss": "http://www.newyorker.com/feed/news",
 	  "link": "http://www.newyorker.com"
   },
-  "Fox News Politics": {
-	  "rss": "http://feeds.foxnews.com/foxnews/politics",
-	  "link": "www.foxnews.com/politics.html"
-  }
- 
+  "Fox News Latest": {
+	  "rss": "http://feeds.foxnews.com/foxnews/latest?format=xml",
+	  "link": "www.foxnews.com"
+  },
+  "Buzzfeed News Politics": {
+	  "rss": "https://www.buzzfeed.com/politics.html",
+	  "link": "https://www.buzzfeed.com/politics"
+  },
+  
   
   
 	 
